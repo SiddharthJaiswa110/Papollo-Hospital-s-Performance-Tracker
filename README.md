@@ -1,5 +1,4 @@
-
-🏥 Apollo Hospitals - Operational Analytics Dashboard
+#🏥 Apollo Hospitals - Operational Analytics Dashboard
 
 This repository contains an advanced Power BI dashboard developed for Apollo Hospitals to streamline and monitor hospital operations, patient workflow, financial performance, and medical diagnostics. The dashboard provides data-driven insights for hospital administrators, operations managers, and healthcare analysts.
 
